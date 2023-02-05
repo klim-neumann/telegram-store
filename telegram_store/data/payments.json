@@ -1,0 +1,37 @@
+{
+	"cryptocurrencies": [
+		{
+			"id": 0,
+			"name": "BTC",
+			"network": "Bitcoin",
+			"standard": "BTC",
+			"address": "14eU1bBeHEBZEajx8cxvJ8rW74KE4MortK"
+		},
+		{
+			"id": 1,
+			"name": "USDT",
+			"network": "TRON",
+			"standard": "TRC20",
+			"address": "THdKcUQWoHgs6jdTj6VhAPa7sipmQwTrYp"
+		},
+		{
+			"id": 2,
+			"name": "TON",
+			"network": "The Open Network",
+			"standard": "TON",
+			"address": "EQDcQqmIu4f9HSP_5ZqaPX0Y530vyCG5POZPCJmLzvhnGPcB"
+		}
+	],
+	"banks": [
+		{
+			"id": 0,
+			"name": "QIWI",
+			"details": ""
+		},
+		{
+			"id": 1,
+			"name": "Kaspi",
+			"details": "4400 4301 7693 2850"
+		}
+	]
+}
